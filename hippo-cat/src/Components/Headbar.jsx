@@ -10,6 +10,7 @@ function Headbar(){
             <h2>Hippo Cat</h2>
             <img className='icons' src={twitter}/>
             <img className='icons' src={telegram}/>
+            <button className="butt">BUY NOW</button>
         </div>
         </HeadBarStyle>
     )

@@ -15,8 +15,8 @@
 .cardStyle {
     margin: 0 auto; /* Center the card horizontally */
     border-radius: 20px;
-    background: radial-gradient(#312d18, #506adda2);
     border: 1px solid #d8d0d4;
+    background-color: #C24A9E;
     color: rgba(250, 250, 250, 0.8);
     padding: 0.5rem;
     max-width: 800px;
@@ -40,6 +40,11 @@ h2 {
     overflow-wrap: break-word; 
     margin: 1rem 0;
     padding: 0.5rem; 
+}
+.butt{
+ margin-left: 1rem;
+ background-color: #d8d0d4;
+color: #312d18;
 }
 
 .icons {

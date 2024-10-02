@@ -4,12 +4,17 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Headbar from './Components/Headbar'
 
+import Contract from './Components/Contract'
+import Hero from './Components/Hero'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
     <Headbar></Headbar>
+    
+    <Hero/>
+    <Contract/>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
