@@ -47,3 +47,8 @@ align-items: center;
     background-color: #d8d0d4;
     color: #312d18;
   }
+  .moo{
+    width: 35rem;
+    margin-top:3rem;
+   border-radius: 20px;
+  }
