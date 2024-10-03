@@ -6,6 +6,7 @@ import Contract from './Components/Contract'
 import Hero from './Components/Hero'
 import Tokeneconomics from './Components/Tokeneconomics'
 import About from './Components/About'
+import Partners from './Components/Partners'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -17,7 +18,7 @@ function App() {
       <Contract />
       <Tokeneconomics />
       <About/>
-
+<Partners/>
     </>
   )
 }
