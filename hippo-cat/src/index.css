@@ -71,3 +71,30 @@ button:focus-visible {
   }
 }
 
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1rem;
+  }
+
+  h2 {
+    font-size: 1rem;
+  }
+
+  p {
+    font-size: 1.5rem;
+  }
+
+  body {
+    padding: 0 0.5rem;
+  }
+
+  /* Ensure all elements fit within the viewport */
+  h1, h2, h3, p {
+
+    max-width: 100%; /* Prevents elements from exceeding the screen width */
+  }
+  *{
+    overflow-x: hidden;
+  }
+}
