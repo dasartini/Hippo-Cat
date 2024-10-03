@@ -5,9 +5,9 @@ function Contract() {
         <HeadBarStyle>
 
             <div className="cardStyle">
-                CA: 8gsPhwLeVNQe6NNi42T6Q2n2q3ZPFwiaJwrk7CzaKhLC
-            </div>
-
+                <p> CA: <br></br>
+                8gsPhwLeVNQe6NNi42T6Q2n2q3ZPFwiaJwrk7CzaKhLC</p> 
+                </div>
         </HeadBarStyle>
     )
 

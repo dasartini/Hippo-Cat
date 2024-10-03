@@ -56,3 +56,13 @@ align-items: center;
    border-radius: 20px;
    animation: fadeInUp 1s backwards;
   }
+
+  @media (max-width: 480px){
+
+    .hippoCat{
+      width: 22rem;
+    }
+    .moo{
+      width: 22rem;
+    }
+  }

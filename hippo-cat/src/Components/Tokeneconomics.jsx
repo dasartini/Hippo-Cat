@@ -3,6 +3,7 @@ import HeadBarStyle from "../Styles/HeadBarStyle";
 function Tokeneconomics() {
     return (
         <HeadBarStyle>
+            <br></br>
             <div className="cardStyle">
                 <div className="gridContainer">
                     <div>
@@ -19,6 +20,7 @@ function Tokeneconomics() {
                     </div>
                 </div>
             </div>
+            <br></br>
         </HeadBarStyle>
     );
 }
