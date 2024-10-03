@@ -8,6 +8,7 @@
     color: #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-align: left;
+    animation: fadeInUp 0.8s forwards;
 }
 
 h1 {
@@ -33,5 +34,6 @@ p {
     border-radius: 20px; 
     display: block; 
     margin: 1rem 0;
+    animation: fadeInUp 0.1s forwards;
 }
 

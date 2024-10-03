@@ -25,11 +25,13 @@ justify-content: center;
     width: 30rem;
     margin-top:3rem;
    border-radius: 20px;
+   animation: fadeInUp 1s forwards;
   }
   .tweet{
 width: 20rem;
 border-radius: 30px;
 margin-bottom: 2rem;
+animation: fadeInUp 1s forwards;
   }
   .buttonsContainer{
 margin-top: 2rem;
@@ -38,6 +40,7 @@ align-items: center;
     display: flex;
     flex-direction: row;
     gap: 1rem;
+    animation: fadeInUp 0.8s forwards;
   }
 
   .buy{
@@ -51,4 +54,5 @@ align-items: center;
     width: 35rem;
     margin-top:3rem;
    border-radius: 20px;
+   animation: fadeInUp 1s backwards;
   }
