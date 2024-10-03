@@ -1,10 +1,14 @@
 import AboutStyle from "../Styles/AboutStyle";
 import storyPic from '../assets/storypic.jpg'
+import storyPic2 from '../assets/storypic2.jpg'
+import storyPic3 from '../assets/storypic3.jpg'
+import storyPic4 from '../assets/storypic4.jpg'
 function About() {
     return (
         <AboutStyle>
             <div className="aboutStyle">
                 <h1>ABOUT</h1>
+                <img  className='storyPic'src={storyPic3}/>
                 <p>
                     The Tale of Hippo Cat: The Crypto Hero We Never Knew We Needed
                 </p>
@@ -14,9 +18,11 @@ function About() {
                 <p>
                     Hippo Cat’s legend began one rainy day when the town's mood was as gloomy as the sky. People had grown tired of the same old news, same old problems, and were in need of something... different. That’s when Hippo Cat appeared on the scene, waddling through the streets with his big, floppy hippo suit, making everyone smile and laugh. The rain didn’t matter anymore—Hippo Cat brought sunshine wherever he went.
                 </p>
+                <img className='storyPic'src={storyPic2}/>
                 <p>
                     As his fame spread, people realized something incredible about Hippo Cat: he didn’t just bring smiles, he had an energy that felt like limitless potential. It was as if his costume had turned him into a beacon of optimism in an unpredictable world. Soon, the story of Hippo Cat reached the crypto world, where meme coins were born from dreams and internet magic. And just like that, the $HC (Hippo Cat) coin was launched—bringing with it the promise of fun, community, and prosperity.
                 </p>
+                <img  className='storyPic'src={storyPic4}/>
                 <h2>Why should you buy $HC?</h2>
                 <p>
                     Because Hippo Cat represents all of us: we may not always fit in, but we bring our own kind of magic to the world. By investing in $HC, you’re not just buying a coin—you’re joining a community of like-minded believers in fun, positivity, and the power of a good laugh. Plus, just like Whiskers in his hippo suit, this coin is ready to waddle its way to success.
