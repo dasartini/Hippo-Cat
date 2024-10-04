@@ -60,9 +60,9 @@ align-items: center;
   @media (max-width: 480px){
 
     .hippoCat{
-      width: 22rem;
+      width: 20rem;
     }
     .moo{
-      width: 22rem;
+      width: 20rem;
     }
   }

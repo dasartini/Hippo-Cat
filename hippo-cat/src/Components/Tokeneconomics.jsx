@@ -8,7 +8,7 @@ function Tokeneconomics() {
                 <div className="gridContainer">
                     <div>
                         <h4>Supply</h4>
-                        <p>1,000,000</p>
+                        <p>1,000,000,000</p>
                     </div>
                     <div>
                         <h4>LP Burned</h4>
