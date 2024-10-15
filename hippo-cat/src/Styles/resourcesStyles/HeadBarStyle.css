@@ -36,6 +36,9 @@
  .navBar h2{
     margin-bottom: 2.2rem;
  }
+ .navBar h1{
+    margin-bottom: 2.2rem;
+ }
 
 .cardStyle {
     border-radius: 20px;
@@ -56,6 +59,11 @@
     align-items: center;
     
 }
+.cardStyle .partners{
+    margin-right: 3rem;
+    margin-top: 10px;
+}
+
 
 h1 {
     padding: 0.5rem;
@@ -120,6 +128,7 @@ h2 {
     .navBar h1{
         margin-left: -10px;
         font-size:1.7rem;
+        margin-bottom: 1rem;
     }
 
     .button {
@@ -129,6 +138,9 @@ h2 {
         height: 2rem;
         
 
+    }
+    .cardStyle .partners{
+        margin-right: 1rem;
     }
   }
   

@@ -9,11 +9,12 @@ function Partners(){
             <br></br>
             <br></br>
         <div className="cardStyle">
-        <h1>Partners</h1>
+        <h1 className="partners">Partners</h1>
+       
                 <a href="https://pump.fun/8gsPhwLeVNQe6NNi42T6Q2n2q3ZPFwiaJwrk7CzaKhLC" target="_blank"><img className='icons' src={pump} /></a>
                 <a href="https://www.dextools.io/app/en/solana/pair-explorer/98gsPhwLeVNQe6NNi42T6Q2n2q3ZPFwiaJwrk7CzaKhLC" target="_blank"> <img className='icons' src={dextools} /></a>
                 <a href="https://dexscreener.com/solana/9vay8edxwif98uzctkbqwtduqnpxw891ppkjqbsnr4cs" target="_blank"> <img className='icons' src={dexcreener} /></a>
-            
+              
            
         </div>
         </HeadBarStyle>
